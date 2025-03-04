@@ -13,7 +13,7 @@
 
                 $this->conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
             } catch (PDOException $exception) {
-                echo "Error de conexion: " . $exception->getMessage();
+                die("Error de conexion: " . $exception->getMessage());
             }
             return $this->conn;
         }
