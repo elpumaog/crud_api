@@ -1,0 +1,11 @@
+[33mcommit f47c0dd7d064d72edaf555c495351d0c195a51da[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: elpumaog <alejandrogomezalarcon1@gmail.com>
+Date:   Tue Mar 4 02:24:31 2025 +0100
+
+    Creando la API con PHP y MySQL
+
+[33mcommit 6fd4f95589a33af25d8c3f569a95dcd4ea3f5e1b[m
+Author: elpumaog <alejandrogomezalarcon1@gmail.com>
+Date:   Tue Mar 4 01:18:38 2025 +0100
+
+    Primer commit: Configuracion inicial del proyecto
